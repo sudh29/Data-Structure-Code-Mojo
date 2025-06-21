@@ -29,3 +29,20 @@
 [14 Dynamic Programming](https://github.com/sudh29/Data-Structure-Code-Mojo/blob/main/14%20Dynamic%20Programming/README.md)
 
 [15 Bit Manipulation](https://github.com/sudh29/Data-Structure-Code-Mojo/blob/main/15%20Bit%20Manipulation/README.md)
+
+https://ruhati.net/mojo/_getting_started.html
+
+curl -fsSL https://pixi.sh/install.sh | sh
+
+pixi init . -c https://conda.modular.com/max-nightly/ -c conda-forge
+
+pixi add modular
+
+pixi run mojo --version
+
+pixi shell
+
+mojo first.mojo
+mojo build first.mojo
+
+pixi run mojo format .
